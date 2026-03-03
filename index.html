@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Summit Grip — Senior Capstone</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Top Nav -->
+  <header class="nav">
+    <div class="nav-inner">
+      <div class="brand">
+        <span class="dot"></span>
+        <span>SUMMIT GRIP</span>
+      </div>
+
+      <nav class="links">
+        <a href="#about">About</a>
+        <a href="#features">Features</a>
+        <a href="#documentation">Documentation</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <main class="container">
+    <section class="hero" aria-label="Hero">
+      <div class="hero-left">
+        <p class="eyebrow">Senior Capstone • Lexie Christopher</p>
+        <h1 class="title">Transferable heated grip wrap for ski poles.</h1>
+        <p class="subtitle">
+          A rechargeable, weather-resistant hand-warming system designed to reduce single-use waste
+          while improving comfort and performance on the slopes.
+        </p>
+
+        <div class="pill-row">
+          <span class="pill">Rechargeable</span>
+          <span class="pill">Weather-resistant</span>
+          <span class="pill">Low waste</span>
+        </div>
+      </div>
+
+      <div class="hero-right">
+        <div class="logo-card">
+          <img src="SummitGripLogo.png" alt="Summit Grip logo" />
+        </div>
+      </div>
+    </section>
+
+    <!-- About / Project -->
+    <section id="about" class="section">
+      <div class="section-head">
+        <h2>My Project</h2>
+      </div>
+
+      <div class="card">
+        <p>
+          Summit Grip introduces a transferable hand-warming system that wraps around your ski pole grip,
+          designed to keep skiers comfortable without the waste of disposable hand warmers.
+          The product will be rechargeable, weather-resistant, and sustainably designed to reduce single-use
+          waste while improving performance and enjoyment on the slopes.
+        </p>
+      </div>
+    </section>
+
+    <!-- Features -->
+    <section id="features" class="section">
+      <div class="section-head">
+        <h2>Key Features</h2>
+        <!-- <p>Clear, tech-y bullets that read like a product spec.</p> -->
+      </div>
+
+      <div class="grid-3">
+        <div class="card">
+          <h3>Transferable Wrap</h3>
+          <p>Wraps onto common ski pole grips so the system can move between poles without waste.</p>
+        </div>
+
+        <div class="card">
+          <h3>Rechargeable Heat</h3>
+          <p>Designed for repeat use with a rechargeable power source to replace disposable warmers.</p>
+        </div>
+
+        <div class="card">
+          <h3>Outdoor Ready</h3>
+          <p>Weather-resistant build targeted for cold, snow, and moisture exposure on the mountain.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Documentation -->
+    <section id="documentation" class="section">
+      <div class="section-head">
+        <h2>Documentation</h2>
+        <!-- <p>Add process/creation documentation .</p> -->
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Problem</h3>
+          <p>
+            Cold hands reduce comfort and control while skiing. Disposable hand warmers add ongoing cost
+            and create single-use waste.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>Solution</h3>
+          <p>
+            Summit Grip is a reusable heating wrap designed to deliver warmth directly to the grip area
+            while staying portable and low-waste.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>Process</h3>
+          <ul class="list">
+            <li>Research + concept development</li>
+            <li>Prototyping + materials tests</li>
+            <li>Iteration based on comfort, heat, and durability</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>Next Steps</h3>
+          <ul class="list">
+            <li>Refine enclosure + insulation</li>
+            <li>Improve waterproofing + attachment system</li>
+            <li>More testing in real snow conditions</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>© <span id="year"></span> Lexie Christopher • Summit Grip</p>
+    </footer>
+  </main>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
