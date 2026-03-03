@@ -57,11 +57,11 @@ font-size: 13px;
 }
 
 .dot{
-width: 10px;
-height: 10px;
-border-radius: 999px;
-background: var(--accent);
-box-shadow: 0 0 18px rgba(118,228,255,0.55);
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  background: #ff3b3b;
+  box-shadow: 0 0 12px rgba(255, 59, 59, 0.6);
 }
 
 .links{
