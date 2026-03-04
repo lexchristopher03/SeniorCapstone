@@ -247,6 +247,24 @@ color: var(--muted);
 line-height: 1.7;
 }
 
+#sketches {
+    padding: 60px 10%;
+    text-align: center;
+}
+
+.sketch-gallery {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.sketch-gallery img {
+    width: 250px;
+    border-radius: 8px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.3);
+}
 /* ---------- GRIDS ---------- */
 
 .grid-3{
