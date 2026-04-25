@@ -308,6 +308,19 @@ line-height: 1.7;
   transform: scale(1.5);
 }
 /* ---------- GRIDS ---------- */
+.process-docs {
+  margin-top: 60px;
+}
+
+.process-docs h2 {
+  margin-bottom: 10px;
+}
+
+.process-img {
+  width: 100%;
+  margin-top: 10px;
+  border-radius: 12px;
+}
 
 .grid-3{
 display: grid;
