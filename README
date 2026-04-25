@@ -1,0 +1,115 @@
+# Heated Ski Pole Grip Capstone Project
+
+## Overview
+
+This project is a heated ski pole grip designed to improve comfort and performance for skiers in cold conditions. The goal was to create a portable, attachable heating system that keeps hands warm without restricting movement or requiring bulky gloves.
+
+This project combines product design, prototyping, and user-centered problem solving to address a real-world issue faced by skiers.
+
+---
+
+## Problem
+
+Cold hands are a major issue while skiing, especially in extreme weather conditions. Traditional solutions like gloves or hand warmers can:
+
+* Limit dexterity and grip
+* Lose heat quickly
+* Be inconvenient or wasteful
+
+This project aims to create a more integrated and reusable solution directly on the ski pole.
+
+---
+
+## Solution
+
+The heated ski pole grip is a modular attachment that wraps around an existing ski pole handle and provides consistent warmth through an internal heating element powered by a portable battery.
+
+Key aspects of the solution:
+
+* Direct heat to hands through the grip
+* Secure, flexible attachment system
+* Lightweight and portable design
+* Rechargeable power source
+
+---
+
+## Features
+
+* Heated grip surface for consistent warmth
+* Portable battery pack attached to the pole
+* Flexible fastening system (rubber strap / wrap)
+* Lightweight and durable materials
+* Designed for real skiing conditions
+
+---
+
+## Materials & Components
+
+* 3D printed parts (PLA or similar filament)
+* Heating element (resistive wire or pad)
+* Portable battery pack
+* Wiring and electrical connections
+* Flexible attachment material (rubber/strap system)
+* Electrical tape / insulation materials
+
+---
+
+## Technologies Used
+
+* 3D Modeling & Printing
+* Prototyping and fabrication
+* Basic circuit design
+* Adobe Illustrator (design planning)
+* Blender (if used for visualization/animation)
+
+---
+
+## Process
+
+1. **Research** – Identified user pain points (cold hands, grip issues)
+2. **Ideation** – Sketched and explored attachment + heating concepts
+3. **Prototyping** – Built initial grip and heating system
+4. **Testing** – Evaluated heat output, comfort, and durability
+5. **Iteration** – Improved attachment, placement, and usability
+
+---
+
+## Challenges
+
+* Safely integrating a heating element with a portable battery
+* Keeping the design lightweight while still effective
+* Securing the grip to the pole without slipping
+* Managing heat distribution evenly across the grip
+
+---
+
+## Future Improvements
+
+* Waterproofing for snow conditions
+* Adjustable heat settings
+* More compact battery integration
+* Improved insulation and efficiency
+* Refined ergonomic grip design
+
+---
+
+## Project Outcome
+
+The final prototype demonstrates a functional heated ski pole grip that improves user comfort and provides a foundation for further development into a fully refined product.
+
+---
+
+## Author
+
+Lexie Christopher
+Creative Technology & Design Student
+
+---
+
+## Acknowledgments
+
+* Professors and peers for feedback
+* Online resources for prototyping and electronics
+* Skiing community inspiration
+
+---
